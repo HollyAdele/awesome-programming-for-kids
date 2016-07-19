@@ -10,3 +10,6 @@ A curated list of awesome resources for teaching kids programming.
 * [Bitsbox](https://bitsbox.com/) - A subscription to teach coding.
 * [Kodable](https://www.kodable.com/) - Desktop website to give instructions to solve puzzles. Complete curriculum to use in schools. 
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - Advanced Ruby Game with cool music. 
+* [Swift Playground](http://www.macworld.com/article/3095824/ios/meet-swift-playgrounds-the-learn-to-code-ipad-app-that-feels-like-a-puzzle-game.html) - Learn Swift with a puzzle game, an iPad app from Apple. 
+* [Scratch](https://scratch.mit.edu/) - Created by MIT, this programming language has lots of fans.  For ages 7-10 or so.
+* [LearntoMod.com](http://www.learntomod.com/) - Subscription Minecraft modding tutorials.  Start with placing code blocks, then graduate to JavaScript. 
