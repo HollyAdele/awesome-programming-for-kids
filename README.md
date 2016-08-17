@@ -7,18 +7,17 @@ A curated list of awesome resources for teaching kids programming.
 * [Upper Elementary](#upper-elementary)
 
 ## Pre-Literate
-* [The Foos](https://itunes.apple.com/app/id923441570) - Funny pre-literate iPad game that teaches commands, parameters, loops, and conditionals. 
-* [Scratch Jr.](https://www.scratchjr.org/) - A simplified version of Scratch for a tablet. 
+* [The Foos](https://itunes.apple.com/app/id923441570) - A funny, pre-literate, iPad game that teaches concepts for commands, parameters, loops, and conditionals. 
+* [Scratch Jr.](https://www.scratchjr.org/) - An app that teaches young kids how to visually code interactive stories and games. A simplified version of the Scratch website, for a tablet. 
 
 ## Lower Elementary 
-* [Lightbot](https://lightbot.com/) - Comes in Lightbot and lightbot Jr, and a mobile app or a desktop website. Solve puzzles with commands, loops, and conditionals. 
+* [Lightbot](https://lightbot.com/) - Solve puzzles with commands, loops, and conditionals. Comes in Lightbot and lightbot Jr, and a mobile app or a desktop website. 
 * [Cargo Bot](https://itunes.apple.com/us/app/cargo-bot/id519690804?mt=8) - iPad app to solve problems with constraints using commands, loops, conditional statements. More difficult puzzles than Lightbot.
-* [Code.org](https://studio.code.org/) - Both interactive coding games and lesson plans to sit down with kids.
-* [Scratch](https://scratch.mit.edu/) - Created by MIT, this programming language has lots of fans.  
+* [Code.org](https://studio.code.org/) - A website with interactive coding games and courses for kids kids. Covers a large range of ages and skill levels.
+* [Scratch](https://scratch.mit.edu/) - Scratch is a popular visual programming language for beginners, created by MIT. The Scratch website is a platform for kids to make interactive stories and share them with each other.
 
 ## Upper Elementary
 * [Bitsbox](https://bitsbox.com/) - A monthly box subscription that teaches kids how to code.
 * [Lego Mindstorms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) - A robotics kit by Lego.
-* [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - Advanced Ruby Game with cool music.
-* [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app to learn Swift. 
-
+* [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - An online tutorial-game with cool music that teaches Ruby programming.
+* [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app for learning Swift. 
