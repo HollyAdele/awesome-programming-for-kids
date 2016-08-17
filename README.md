@@ -13,7 +13,7 @@ A curated list of awesome resources for teaching kids programming.
 ## Lower Elementary 
 * [Lightbot](https://lightbot.com/) - Solve puzzles with commands, loops, and conditionals. Comes in Lightbot and lightbot Jr, and a mobile app or a desktop website. 
 * [Cargo Bot](https://itunes.apple.com/us/app/cargo-bot/id519690804?mt=8) - iPad app to solve problems with constraints using commands, loops, conditional statements. More difficult puzzles than Lightbot.
-* [Code.org](https://studio.code.org/) - A website with interactive coding games and courses for kids kids. Covers a large range of ages and skill levels.
+* [Code.org](https://studio.code.org/) - A website with interactive coding games and courses for kids. Covers a large range of ages and skill levels.
 * [Scratch](https://scratch.mit.edu/) - Scratch is a popular visual programming language for beginners, created by MIT. The Scratch website is a platform for kids to make interactive stories and share them with each other.
 
 ## Upper Elementary
@@ -21,3 +21,4 @@ A curated list of awesome resources for teaching kids programming.
 * [Lego Mindstorms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) - A robotics kit by Lego.
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - An online tutorial-game with cool music that teaches Ruby programming.
 * [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app for learning Swift. 
+* [Khan Academy - Computer Programming](https://www.khanacademy.org/computing/computer-programming) - A series of web-based programming lessons with interactive challenges, by Khan Academy. Teaches topics like animation, game development, and web programming.
