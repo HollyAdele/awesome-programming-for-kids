@@ -20,5 +20,6 @@ A curated list of awesome resources for teaching kids programming.
 * [Bitsbox](https://bitsbox.com/) - A monthly box subscription that teaches kids how to code.
 * [Lego Mindstorms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) - A robotics kit by Lego.
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - Advanced Ruby Game with cool music.
-* [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app to learn Swift. 
+* [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app to learn Swift.
+* [Khan Academy - Computer Programming](https://www.khanacademy.org/computing/computer-programming) - A series of web-based programming lessons with interactive challenges, by Khan Academy. Teaches topics like animation, game development, and web programming.
 
