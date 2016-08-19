@@ -7,7 +7,7 @@ A curated list of awesome resources for teaching kids programming.
 * [Upper Elementary](#upper-elementary)
 
 ## Pre-Literate
-* [The Foos](https://itunes.apple.com/app/id923441570) - A funny, pre-literate, iPad game that teaches concepts for commands, parameters, loops, and conditionals. 
+* [The Foos](https://itunes.apple.com/app/id923441570) - A funny, pre-literate iPad game that teaches concepts for commands, parameters, loops, and conditionals. 
 * [Scratch Jr.](https://www.scratchjr.org/) - An app that teaches young kids how to visually code interactive stories and games. A simplified version of the Scratch website, for a tablet. 
 
 ## Lower Elementary 
@@ -18,7 +18,7 @@ A curated list of awesome resources for teaching kids programming.
 
 ## Upper Elementary
 * [Bitsbox](https://bitsbox.com/) - A monthly box subscription that teaches kids how to code.
-* [Lauren Ipsum](www.laurenipsum.org) - Book teaching problem-solving concepts in the context of programming.  Sample chapters available online.
+* [Lauren Ipsum](https://laurenipsum.org/) - A book that teaches problem-solving concepts in the context of programming.  Sample chapters available online.
 * [Lego Mindstorms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) - A robotics kit by Lego.
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - An online tutorial-game with cool music that teaches Ruby programming.
 * [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app for learning Swift. 
