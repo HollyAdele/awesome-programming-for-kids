@@ -18,6 +18,7 @@ A curated list of awesome resources for teaching kids programming.
 
 ## Upper Elementary
 * [Bitsbox](https://bitsbox.com/) - A monthly box subscription that teaches kids how to code.
+* [CS Unplugged](http://csunplugged.org/) - A collection of free ([Creative Commons BY-NC-SA licence](http://creativecommons.org/licenses/by-nc-sa/3.0/)) learning activities that teach Computer Science through engaging games and puzzles that use cards, string, crayons and lots of running around.
 * [Lauren Ipsum](http://laurenipsum.org/) - A book that teaches problem-solving concepts in the context of programming.  Sample chapters available online.
 * [Lego Mindstorms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) - A robotics kit by Lego.
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - An online tutorial-game with cool music that teaches Ruby programming.
