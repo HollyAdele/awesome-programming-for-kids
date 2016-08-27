@@ -17,9 +17,9 @@ A curated list of awesome resources for teaching kids programming.
 * [Scratch](https://scratch.mit.edu/) - Scratch is a popular visual programming language for beginners, created by MIT. The Scratch website is a platform for kids to make interactive stories and share them with each other.
 
 ## Upper Elementary
-* [DIY.org](https://diy.org/skills) - A website to help kids learn anything.  Programming skills listed are [App Dev](https://diy.org/skills/appdev), [Backend Dev](https://diy.org/skills/backenddev), [Frontend Dev](https://diy.org/skills/frontenddev), [Game Dev](https://diy.org/skills/gamedev), [Graphic Designer](https://diy.org/skills/graphicdesigner), [Open Sourcerer](https://diy.org/skills/opensourcerer), [Scratcher](https://diy.org/skills/scratcher), [Sys Admin](https://diy.org/skills/sysadmin), and [Web Designer](https://diy.org/skills/webdesigner).  Kids complete challenges to learn skills and earn badges.  They can comment on each others' projects, flag inappropriate content and users, and can get ideas and motivation from each other.  A place to surround your kids with other kids who are makers.
+* [DIY.org](https://diy.org/skills) - An online community for kids to learn anything.  Programming skills listed are App Dev, Backend Dev, Frontend Dev, Game Dev, Graphic Designer, Open Sourcerer, Scratcher, Sys Admin, and Web Designer. 
 * [Bitsbox](https://bitsbox.com/) - A monthly box subscription that teaches kids how to code.
-* [CS Unplugged](http://csunplugged.org/) - A collection of free ([Creative Commons BY-NC-SA licence](http://creativecommons.org/licenses/by-nc-sa/3.0/)) learning activities that teach Computer Science through engaging games and puzzles that use cards, string, crayons and lots of running around.
+* [CS Unplugged](http://csunplugged.org/) - A collection of free learning activities that teach Computer Science through engaging games and puzzles that use cards, string, crayons and lots of running around.
 * [Lauren Ipsum](http://laurenipsum.org/) - A book that teaches problem-solving concepts in the context of programming.  Sample chapters available online.
 * [Lego Mindstorms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) - A robotics kit by Lego.
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - An online tutorial-game with cool music that teaches Ruby programming.
