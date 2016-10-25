@@ -25,3 +25,5 @@ A curated list of awesome resources for teaching kids programming.
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - An online tutorial-game with cool music that teaches Ruby programming.
 * [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app for learning Swift. 
 * [Khan Academy - Computer Programming](https://www.khanacademy.org/computing/computer-programming) - A series of web-based programming lessons with interactive challenges, by Khan Academy. Teaches topics like animation, game development, and web programming.  Users can post questions, which get answered quickly by the community.  
+* [Web Design for Kids](https://webdesign.tutsplus.com/series/web-design-for-kids--cms-823) - A series of tutorials teaching children the basics of designing and building a website with HTML and CSS.
+
