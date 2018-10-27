@@ -26,4 +26,5 @@ A curated list of awesome resources for teaching kids programming.
 * [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app for learning Swift. 
 * [Khan Academy - Computer Programming](https://www.khanacademy.org/computing/computer-programming) - A series of web-based programming lessons with interactive challenges, by Khan Academy. Teaches topics like animation, game development, and web programming.  Users can post questions, which get answered quickly by the community.  
 * [Web Design for Kids](https://webdesign.tutsplus.com/series/web-design-for-kids--cms-823) - A series of tutorials teaching children the basics of designing and building a website with HTML and CSS.
+* [Finch Robot](https://www.finchrobot.com/) - A small robot designed for computer science education with support for multiple programming languages.
 
