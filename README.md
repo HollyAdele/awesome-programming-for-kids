@@ -9,12 +9,14 @@ A curated list of awesome resources for teaching kids programming.
 ## Pre-Literate
 * [The Foos](https://itunes.apple.com/app/id923441570) - A funny, pre-literate iPad game that teaches concepts for commands, parameters, loops, and conditionals. 
 * [Scratch Jr.](https://www.scratchjr.org/) - An app that teaches young kids how to visually code interactive stories and games. A simplified version of the Scratch website, for a tablet. 
+* [Cubetto](https://www.primotoys.com/) - An expensive, yet screen-free introduction to coding especially for a Montessori environment. Includes a robot and a wooden programming board with removable command pieces. 
 
 ## Lower Elementary 
 * [Lightbot](https://lightbot.com/) - Solve puzzles with commands, loops, and conditionals. Comes in Lightbot and lightbot Jr, and a mobile app or a desktop website. 
 * [Cargo Bot](https://itunes.apple.com/us/app/cargo-bot/id519690804?mt=8) - iPad app to solve problems with constraints using commands, loops, conditional statements. More difficult puzzles than Lightbot.
 * [Code.org](https://studio.code.org/) - A website with interactive coding games and courses for kids. Covers a large range of ages and skill levels.
 * [Scratch](https://scratch.mit.edu/) - Scratch is a popular visual programming language for beginners, created by MIT. The Scratch website is a platform for kids to make interactive stories and share them with each other.
+* [Code Master](https://www.thinkfun.com/products/code-master/) - An addictive board game that builds problem solving skills and understanding of programming logic. Starts basic and moves to very advanced. 
 
 ## Upper Elementary
 * [DIY.org](https://diy.org/skills) - An online community for kids to learn anything.  Programming skills listed are App Dev, Backend Dev, Frontend Dev, Game Dev, Graphic Designer, Open Sourcerer, Scratcher, Sys Admin, and Web Designer. 
@@ -27,4 +29,5 @@ A curated list of awesome resources for teaching kids programming.
 * [Khan Academy - Computer Programming](https://www.khanacademy.org/computing/computer-programming) - A series of web-based programming lessons with interactive challenges, by Khan Academy. Teaches topics like animation, game development, and web programming.  Users can post questions, which get answered quickly by the community.  
 * [Web Design for Kids](https://webdesign.tutsplus.com/series/web-design-for-kids--cms-823) - A series of tutorials teaching children the basics of designing and building a website with HTML and CSS.
 * [Finch Robot](https://www.finchrobot.com/) - A small robot designed for computer science education with support for multiple programming languages.
+* [Secret Coders](http://www.secret-coders.com/buy-the-books/) - A engaging book series that teaches programming concepts through Logo. 
 
