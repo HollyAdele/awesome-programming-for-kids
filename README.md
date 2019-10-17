@@ -12,6 +12,7 @@ A curated list of awesome resources for teaching kids programming.
 * [Cubetto](https://www.primotoys.com/) - An expensive, yet screen-free introduction to coding especially for a Montessori environment. Includes a robot and a wooden programming board with removable command pieces. 
 
 ## Lower Elementary 
+* [KODU Game Lab](https://www.kodugamelab.com/) - Kodu lets kids create 3D games on the PC and Xbox via a simple visual programming language.
 * [Lightbot](https://lightbot.com/) - Solve puzzles with commands, loops, and conditionals. Comes in Lightbot and lightbot Jr, and a mobile app or a desktop website. 
 * [Cargo Bot](https://itunes.apple.com/us/app/cargo-bot/id519690804?mt=8) - iPad app to solve problems with constraints using commands, loops, conditional statements. More difficult puzzles than Lightbot.
 * [Code.org](https://studio.code.org/) - A website with interactive coding games and courses for kids. Covers a large range of ages and skill levels.
