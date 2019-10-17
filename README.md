@@ -19,6 +19,7 @@ A curated list of awesome resources for teaching kids programming.
 * [Code Master](https://www.thinkfun.com/products/code-master/) - An addictive board game that builds problem solving skills and understanding of programming logic. Starts basic and moves to very advanced. 
 
 ## Upper Elementary
+* [Roblox Studio](https://www.roblox.com/create) - Roblox Studio lets you create anything and release with one click to smartphones, tablets, desktops, consoles, and virtual reality devices.
 * [DIY.org](https://diy.org/skills) - An online community for kids to learn anything.  Programming skills listed are App Dev, Backend Dev, Frontend Dev, Game Dev, Graphic Designer, Open Sourcerer, Scratcher, Sys Admin, and Web Designer. 
 * [Bitsbox](https://bitsbox.com/) - A monthly box subscription that teaches kids how to code.
 * [CS Unplugged](http://csunplugged.org/) - A collection of free learning activities that teach Computer Science through engaging games and puzzles that use cards, string, crayons and lots of running around.
