@@ -31,6 +31,7 @@ A curated list of awesome resources for teaching kids programming.
 * [Lego Mindstorms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) - A robotics kit by Lego.
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - An online tutorial-game with cool music that teaches Ruby programming.
 * [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app for learning Swift. 
+* [Child Lang](https://github.com/omerfarukz/Child-Lang) - A programming language designed for children.
 
 
 
