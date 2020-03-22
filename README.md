@@ -30,7 +30,8 @@ A curated list of awesome resources for teaching kids programming.
 * [Lauren Ipsum](http://laurenipsum.org/) - A book that teaches problem-solving concepts in the context of programming.  Sample chapters available online.
 * [Lego Mindstorms](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com) - A robotics kit by Lego.
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - An online tutorial-game with cool music that teaches Ruby programming.
-* [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app for learning Swift. 
+* [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app for learning Swift.
+* [Microsoft MakeCode](https://www.microsoft.com/en-us/makecode) - A suite of educational tools for kids, including online environments for game development, minecraft modding, hardware hacking, and more.
 
 
 
