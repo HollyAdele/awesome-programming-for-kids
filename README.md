@@ -24,6 +24,7 @@ A curated list of awesome resources for teaching kids programming.
 ## Upper Elementary
 * [tinkercad.com](https://www.tinkercad.com/things?type=codeblocks&view_mode=default) - TinkerCAD is a free, 3D CAD modeling software program for children. Users can also manipulate the shapes using code blocks like Scratch.
 * [DIY.org](https://diy.org/skills) - An online community for kids to learn anything.  Programming skills listed are App Dev, Backend Dev, Frontend Dev, Game Dev, Graphic Designer, Open Sourcerer, Scratcher, Sys Admin, and Web Designer. 
+* [Code Combat](https://codecombat.com/) - Code a hero to compete heroic tasks using Javascript or Python. The hero gets new weapons or skills whenever the user learns a new method. 
 * [Web Design for Kids](https://webdesign.tutsplus.com/series/web-design-for-kids--cms-823) - A series of tutorials teaching children the basics of designing and building a website with HTML and CSS.
 * [Finch Robot](https://www.birdbraintechnologies.com/finch2/) - A small robot designed for computer science education with support for multiple programming languages.
 * [Secret Coders](http://www.secret-coders.com/buy-the-books/) - A engaging book series that teaches programming concepts through Logo. 
