@@ -13,7 +13,8 @@ A curated list of awesome resources for teaching kids programming.
 
 ## Lower Elementary 
 * [Scratch](https://scratch.mit.edu/) - Scratch is a popular visual programming language for beginners, created by MIT. The Scratch website is a platform for kids to make interactive stories and share them with each other.
-* [Hopscotch](https://www.gethopscotch.com/) - Like Scratch, but for iOS devices. 
+* [Hopscotch](https://www.gethopscotch.com/) - Hopscotch is a code block editor like Scratch, but in an iOS app. Can program code to react to tipping and shaking the device. 
+* [Evo from Ozobot](https://ozoblockly.com/editor?lang=en&robot=evo&mode=2) - Evo is a tiny robot that can move, light up, and make sounds. Also it detects what color it is driving on. It can follow commands based on the color of the line it is following. Or, it can be programmed using a code block editor like Scratch. Hold the robot up to a flashing dot on the screen, and the website will load the program onto the robot with light flashes. 
 * [Lightbot](https://lightbot.com/) - Solve puzzles with commands, loops, and conditionals. Comes in Lightbot and lightbot Jr, and a mobile app or a desktop website. 
 * [Code.org](https://studio.code.org/) - A website with interactive coding games and courses for kids. Covers a large range of ages and skill levels.
 * [Code Master](https://www.thinkfun.com/products/code-master/) - An addictive board game that builds problem solving skills and understanding of programming logic. Starts basic and moves to very advanced. 
@@ -21,6 +22,7 @@ A curated list of awesome resources for teaching kids programming.
 
 
 ## Upper Elementary
+* [tinkercad.com](https://www.tinkercad.com/things?type=codeblocks&view_mode=default) - TinkerCAD is a free, 3D CAD modeling software program for children. Users can also manipulate the shapes using code blocks like Scratch.
 * [DIY.org](https://diy.org/skills) - An online community for kids to learn anything.  Programming skills listed are App Dev, Backend Dev, Frontend Dev, Game Dev, Graphic Designer, Open Sourcerer, Scratcher, Sys Admin, and Web Designer. 
 * [Web Design for Kids](https://webdesign.tutsplus.com/series/web-design-for-kids--cms-823) - A series of tutorials teaching children the basics of designing and building a website with HTML and CSS.
 * [Finch Robot](https://www.birdbraintechnologies.com/finch2/) - A small robot designed for computer science education with support for multiple programming languages.
