@@ -20,7 +20,7 @@ A curated list of awesome resources for teaching kids programming.
 * [Code Master](https://www.thinkfun.com/products/code-master/) - An addictive board game that builds problem solving skills and understanding of programming logic. Starts basic and moves to very advanced. 
 * [Cargo Bot](https://itunes.apple.com/us/app/cargo-bot/id519690804?mt=8) - iPad app to solve problems with constraints using commands, loops, conditional statements. More difficult puzzles than Lightbot.
 * [Python Turtle](https://github.com/PythonTurtle/PythonTurtle) original (1986-2021) simple 'Python-Turtle' model.
-   * [Code Monkey](https://app.codemonkey.com/users/sign_up/student/age) - more graphics to learn Python type of code. ( Not-free for advanced levels )
+* [Code Monkey](https://app.codemonkey.com/users/sign_up/student/age) - more graphics to learn Python type of code. ( Not-free for advanced levels )
 
 
 ## Upper Elementary
