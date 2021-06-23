@@ -15,10 +15,13 @@ A curated list of awesome resources for teaching kids programming.
 * [Scratch](https://scratch.mit.edu/) - Scratch is a popular visual programming language for beginners, created by MIT. The Scratch website is a platform for kids to make interactive stories and share them with each other.
 * [Hopscotch](https://www.gethopscotch.com/) - Hopscotch is a code block editor like Scratch, but in an iOS app. Can program code to react to tipping and shaking the device. 
 * [Evo from Ozobot](https://ozoblockly.com/editor?lang=en&robot=evo&mode=2) - Evo is a tiny robot that can move, light up, and make sounds. Also it detects what color it is driving on. It can follow commands based on the color of the line it is following. Or, it can be programmed using a code block editor like Scratch. Hold the robot up to a flashing dot on the screen, and the website will load the program onto the robot with light flashes. 
-* [Lightbot](https://lightbot.com/) - Solve puzzles with commands, loops, and conditionals. Comes in Lightbot and lightbot Jr, and a mobile app or a desktop website. 
+* [Lightbot](https://lightbot.com/) - Solve puzzles with commands, loops, and conditionals. Comes in Lightbot and lightbot Jr, and a mobile app or a desktop website.
+   * (_Predecessors Lightbot1 & Lightbot2 had unique levels/advantages. Lightbot1 was a nice lesson in imparative programming  (Yet flash or emulations are to test._)   
 * [Code.org](https://studio.code.org/) - A website with interactive coding games and courses for kids. Covers a large range of ages and skill levels.
 * [Code Master](https://www.thinkfun.com/products/code-master/) - An addictive board game that builds problem solving skills and understanding of programming logic. Starts basic and moves to very advanced. 
 * [Cargo Bot](https://itunes.apple.com/us/app/cargo-bot/id519690804?mt=8) - iPad app to solve problems with constraints using commands, loops, conditional statements. More difficult puzzles than Lightbot.
+* [Python Turtle](https://github.com/PythonTurtle/PythonTurtle) original (1986-2021) simple 'Python-Turtle' model.
+   * [Code Monkey](https://app.codemonkey.com/users/sign_up/student/age) - more graphics to learn Python type of code. ( Not-free for advanced levels )
 
 
 ## Upper Elementary
