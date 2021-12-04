@@ -9,7 +9,7 @@ A curated list of awesome resources for teaching kids programming.
 ## Pre-Literate
 * [Scratch Jr.](https://www.scratchjr.org/) - An app that teaches young kids how to visually code interactive stories and games. A simplified version of the Scratch website, for a tablet. 
 * [The Foos](https://itunes.apple.com/app/id923441570) - A funny, pre-literate iPad game that teaches concepts for commands, parameters, loops, and conditionals. 
-* [Cubetto](https://www.primotoys.com/) - An expensive, yet screen-free introduction to coding especially for a Montessori environment. Includes a robot and a wooden programming board with removable command pieces. 
+* [Code-a-pillar](https://www.fisher-price.com/en-us/product/think-learn-code-a-pillar-twist-gfp25) - A walking and singing catapiller toy that can be programmed by connecting a series of segments that give instructions.
 
 ## Lower Elementary 
 * [Scratch](https://scratch.mit.edu/) - Scratch is a popular visual programming language for beginners, created by MIT. The Scratch website is a platform for kids to make interactive stories and share them with each other.
@@ -38,6 +38,4 @@ A curated list of awesome resources for teaching kids programming.
 * [Ruby Warrior](https://www.bloc.io/ruby-warrior#/) - An online tutorial-game with cool music that teaches Ruby programming.
 * [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app for learning Swift.
 * [Microsoft MakeCode](https://www.microsoft.com/en-us/makecode) - A suite of educational tools for kids, including online environments for game development, minecraft modding, hardware hacking, and more.
-
-
-
+* [Sphereo](https://sphero.com/products/mini-at-home-learning-kit) - A spherical robot that can be programmed with a block-programming language in a companion app.
