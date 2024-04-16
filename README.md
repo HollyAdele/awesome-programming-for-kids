@@ -39,3 +39,4 @@ A curated list of awesome resources for teaching kids programming.
 * [Swift Playgrounds](http://www.apple.com/swift/playgrounds/) - Apple's fun iPad app for learning Swift.
 * [Microsoft MakeCode](https://www.microsoft.com/en-us/makecode) - A suite of educational tools for kids, including online environments for game development, minecraft modding, hardware hacking, and more.
 * [Sphereo](https://sphero.com/products/mini-at-home-learning-kit) - A spherical robot that can be programmed with a block-programming language in a companion app.
+* [KODU Game Lab](https://www.kodugamelab.com/) - Kodu lets kids create 3D games on the PC and Xbox via a simple visual programming language.
